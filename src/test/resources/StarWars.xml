@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product>
+        <Id>1</Id>
+        <Name>Tie Fighter</Name>
+	<Side>Empire</Side>
+    </Product>
+    <Product>
+        <Id>2</Id>
+        <Name>X-Wing</Name>
+        <Side>Rebels</Side>
+    </Product>
+    <Product>
+        <Id>3</Id>
+        <Name>AT-ST</Name>
+        <Side>Empire</Side>
+    </Product>
+    <Product>
+        <Id>4</Id>
+        <Name>Han Solo</Name>
+        <Side>Rebels</Side>
+    </Product>
+    <Product>
+        <Id>5</Id>
+        <Name>Lord Vader</Name>
+        <Side>Empire</Side>
+    </Product>
+</Products>

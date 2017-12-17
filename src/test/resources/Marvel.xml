@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product>
+        <Id>1</Id>
+        <Name>Spider Man</Name>
+	<Feature>Spider's web</Feature>
+    </Product>
+    <Product>
+        <Id>2</Id>
+        <Name>Captain America</Name>
+        <Feature>Shield</Feature>
+    </Product>
+    <Product>
+        <Id>3</Id>
+        <Name>Hulk</Name>
+        <Feature>Strength</Feature>
+    </Product>
+    <Product>
+        <Id>4</Id>
+        <Name>Iron Man</Name>
+        <Feature>Armor</Feature>
+    </Product>
+</Products>
